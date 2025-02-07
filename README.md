@@ -11,11 +11,6 @@
 
 <p align="center">
 
-<img title="Saycheese"><img
-
-<p align="center">
-
-
 
 
 ## ABOUT TOOL :
