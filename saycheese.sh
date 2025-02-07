@@ -14,7 +14,7 @@ printf "\e[1;92m  ___) | (_| | |_| |\e[0m\e[1;77m |___| | | |  __/  __/\__ \  __
 printf "\e[1;92m |____/ \__,_|\__, |\e[0m\e[1;77m\____|_| |_|\___|\___||___/\___| \e[0m\n"
 printf "\e[1;92m              |___/ \e[0m                                 \n"
 
-printf " \e[1;77m v2.0 coded by WHITE HAT\e[0m \n"
+printf " \e[1;77m v2.0 coded by Whitte Hats\e[0m \n"
 
 printf "\n"
 
