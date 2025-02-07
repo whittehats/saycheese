@@ -1,6 +1,6 @@
 #!/bin/bash
 # SayCheese v2.0
-# coded by: WHITE HAT
+# coded by: Whitte Hats
 
 trap 'printf "\n";stop' 2
 
