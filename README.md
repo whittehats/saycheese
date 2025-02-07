@@ -1,12 +1,12 @@
 # SayCheese v2.0(Updated)
 
 <p align="center">
-<a href="https://github.com/WHITE-HAT786/saycheese/blob/main/README.md"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/whittehats/saycheese/blob/main/README.md"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/WHITE-HAT786/saycheese/blob/main/README.md"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Saycheese-green.svg"></a>
-<a href="https://github.com/WHITE-HAT786/saycheese/blob/main/README.md"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
-<a href="https://github.com/WHITE-HAT786/saycheese/blob/main/README.md"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://github.com/whittehats/saycheese/blob/main/README.md"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Saycheese-green.svg"></a>
+<a href="https://github.com/whittehats/saycheese/blob/main/README.md"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
+<a href="https://github.com/whittehats/saycheese/blob/main/README.md"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
 <p align="center">
@@ -16,9 +16,8 @@
 </p>
 </p>
 <p align="center">
-<a href="https://github.com/WHITE-HAT786"><img title="Github" src="https://img.shields.io/badge/WHITE-HAT786-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/channel/UC6CNM2a-tLuSvoccGA_314A"><img title="YouTube" src="https://img.shields.io/badge/YouTube-WHITE HAT-red?style=for-the-badge&logo=Youtube"></a>
-</p>
+<a href="https://github.com/whittehats"><img title="Github" src="https://img.shields.io/badge/WHITE-HAT786-brightgreen?style=for-the-badge&logo=github"></a>
+<a 
 
 <p align="center">
 
@@ -69,7 +68,7 @@ Saycheses is a bash based script which is officially made for termux from this t
 
 * `pkg install git -y`
 
-* `git clone https://github.com/WHITE-HAT786/saycheese.git`
+* `git clone https://github.com/whittehats/saycheese`
 
 * `ls`
 
@@ -130,16 +129,3 @@ __SELECT OPTION__ :
 <img width="50%" <img src="https://i.ibb.co/BZzcPS9/IMG-20221024-230228.jpg" alt="20210227-232109" border="0">
 
 </p>
-
-## CONNECT WITH US :
-
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/white_hat_278?igshid=175v9uifresgr)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/white_hat278)
-## WARNING : 
-
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
-
-
-```
-
