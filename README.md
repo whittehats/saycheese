@@ -11,13 +11,7 @@
 
 <p align="center">
 
-<img title="Saycheese"><img src="https://i.ibb.co/qYcKm14/White.jpg" alt="White" border="0"></a>
-
-</p>
-</p>
-<p align="center">
-<a href="https://github.com/whittehats"><img title="Github" src="https://img.shields.io/badge/WHITE-HAT786-brightgreen?style=for-the-badge&logo=github"></a>
-<a 
+<img title="Saycheese"><img
 
 <p align="center">
 
